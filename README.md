@@ -49,6 +49,8 @@ https://huggingface.co/spaces/sumitsardar/Enterprise_Incident_Intelligence
 
 # Running locally
 
+To run the application locally, you must provide the API key as an environment variable.
+
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
